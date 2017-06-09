@@ -1,10 +1,6 @@
 ---
 layout: post
-title: You're up and running!
+title: The Principles of Using Gradepro for HTA
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
-
-![_config.yml]({{ site.baseurl }}/images/config.png)
-
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+We can use GRADEpro, a web app for preparing recommendations using a framework to develop health technology assessments. In this site and the accompanying blog, I will describe this process. If you want to keep in touch with me, please click on the links below to send me email, or connect with my twitter or github account.
